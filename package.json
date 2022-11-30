@@ -1,0 +1,11 @@
+{
+  "name": "pattern-design",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "git@github.com:devHectorGa/pattern-design.git",
+  "author": "devHectorGa <contacto@devHector.Ga>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
